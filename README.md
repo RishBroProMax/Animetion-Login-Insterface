@@ -6,6 +6,6 @@ A Best One 😜
 
 > Login Interface
 
-<p align="center"> <a href="https://t.me/ImRishmika"><img src="https://telegra.ph/file/a20ec1e2caa367300e2cb.mp4"alt="Web Site Home"/></a></p>
+<p align="center"><img src="https://telegra.ph/file/a20ec1e2caa367300e2cb.mp4"alt="Web Site Home"/></a></p>
 
 > Video For Example
